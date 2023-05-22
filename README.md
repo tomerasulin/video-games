@@ -1,5 +1,7 @@
 # VideoGames
 
+A video games database website build with Angular, using a public API - [RAWG API](https://rawg.io/).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
